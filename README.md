@@ -50,6 +50,6 @@ This is my first project using using React and Styled Components. My goal was to
 
 ## Author
 
-- Website - [Imran Rahman](https://www.your-site.com)
+- Website - [Imran Rahman](https://www.imraninfrared.tech/)
 - Frontend Mentor - [@infraredCoding](https://www.frontendmentor.io/profile/infraredCoding)
 - LinkedIn - [@imran-rahman-ix](https://www.linkedin.com/in/imran-rahman-ix/)
