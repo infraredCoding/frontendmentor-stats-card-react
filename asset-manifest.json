@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-stats-card-react/static/css/main.2a2274fc.chunk.css",
+    "main.js": "/frontendmentor-stats-card-react/static/js/main.065a9ee5.chunk.js",
+    "main.js.map": "/frontendmentor-stats-card-react/static/js/main.065a9ee5.chunk.js.map",
+    "runtime-main.js": "/frontendmentor-stats-card-react/static/js/runtime-main.ba12646e.js",
+    "runtime-main.js.map": "/frontendmentor-stats-card-react/static/js/runtime-main.ba12646e.js.map",
+    "static/js/2.07801176.chunk.js": "/frontendmentor-stats-card-react/static/js/2.07801176.chunk.js",
+    "static/js/2.07801176.chunk.js.map": "/frontendmentor-stats-card-react/static/js/2.07801176.chunk.js.map",
+    "static/js/3.32b87e1e.chunk.js": "/frontendmentor-stats-card-react/static/js/3.32b87e1e.chunk.js",
+    "static/js/3.32b87e1e.chunk.js.map": "/frontendmentor-stats-card-react/static/js/3.32b87e1e.chunk.js.map",
+    "index.html": "/frontendmentor-stats-card-react/index.html",
+    "static/css/main.2a2274fc.chunk.css.map": "/frontendmentor-stats-card-react/static/css/main.2a2274fc.chunk.css.map",
+    "static/js/2.07801176.chunk.js.LICENSE.txt": "/frontendmentor-stats-card-react/static/js/2.07801176.chunk.js.LICENSE.txt",
+    "static/media/image-header-desktop.72d6e2a0.jpg": "/frontendmentor-stats-card-react/static/media/image-header-desktop.72d6e2a0.jpg",
+    "static/media/image-header-mobile.399f71e7.jpg": "/frontendmentor-stats-card-react/static/media/image-header-mobile.399f71e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba12646e.js",
+    "static/js/2.07801176.chunk.js",
+    "static/css/main.2a2274fc.chunk.css",
+    "static/js/main.065a9ee5.chunk.js"
+  ]
+}
